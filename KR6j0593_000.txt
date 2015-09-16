@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝幢臂印陀羅尼經
+#+DATE: 2015-08-30 20:35:53.355535
+#+PROPERTY: JUAN 0
