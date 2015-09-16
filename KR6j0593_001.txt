@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:53.115034
+#+DATE: 2015-08-30 20:35:54.289792
 #+TITLE: 勝幢臂印陀羅尼經
 #+PROPERTY: CBETA_ID T21n1363
 #+PROPERTY: ID KR6j0593
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1363
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0593_T_000-0882c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0593_T_001-0882c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1363[No.1364]¶
-
- 勝幢臂印陀羅尼經¶
+No. 1363 [No. 1364]¶
+勝幢臂印陀羅尼經¶
 ¶
 唐三藏法師玄奘奉　詔譯¶
 
@@ -46,7 +45,7 @@ No.1363[No.1364]¶
 羅尼曰。¶
 
 羯洛羯洛　抧利抧利　矩路矩路　薩洛薩¶
-洛　徙利徙利　速路速路　薩縛佛陀婆¶
+洛　徙利徒利　速路速路　薩縛佛陀婆¶
 　盧抧諦　達洛達洛　薩縛達摩路迦目契¶
 　折洛折洛　薩縛僧伽地瑟恥諦　跋洛跋洛¶
 　頞泥迦佛　陀俱胝婆史諦　廁拏廁拏¶
