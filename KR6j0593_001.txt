@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:54.039225
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:35
 #+TITLE: 勝幢臂印陀羅尼經
 #+PROPERTY: CBETA_ID T21n1363
 #+PROPERTY: ID KR6j0593
